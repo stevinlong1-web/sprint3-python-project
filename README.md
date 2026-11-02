@@ -10,6 +10,7 @@ Video game data
 python
 
 ## Key Findings
-- Finding 1: Top game perecentage of global sales: 14.10477148360921%
-- Finding 2: 1 Best Seller: Wii Sports (2006) - $82.74M global sales
-- Finding 3: North America had higher sales
+Key Findings
+Market concentration: The top-selling title accounts for approximately 14.1% of total global sales.
+Best-selling title: Wii Sports (2006) leads all titles with $82.74M in global sales.
+Regional performance: North America generated the highest sales of any region.
