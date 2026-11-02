@@ -1,7 +1,7 @@
 # Video Game Sales
 
 ## Description
-Analzsis of the best video games of all time.
+Analyze video game sales data using the Python skills I've built across all chapters. I work with variables, strings, lists, loops, conditionals, dictionaries, and functions to explore trends in the gaming industry.
 
 ## Data Source
 Video game data
